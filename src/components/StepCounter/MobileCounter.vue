@@ -18,8 +18,7 @@
 </template>
 
 <script setup>
-import MobileListItem from "./mobilelistitem.vue";
-import { store } from "../../store/store";
+import MobileListItem from "./MobileListItem.vue";
 </script>
 
 <style scoped></style>
